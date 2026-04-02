@@ -24,3 +24,4 @@ Python
 ArcPy (ArcGIS Spatial Analyst)
 
 Digital Elevation Models (DEM)
+<img width="14044" height="9934" alt="Automated Flood Susceptibility Model - Accra District" src="https://github.com/user-attachments/assets/fd0c45e1-fd57-4af8-991f-e6e5895da974" />
