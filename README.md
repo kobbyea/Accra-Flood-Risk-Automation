@@ -2,8 +2,10 @@
 A Python (ArcPy) script that automates a multi-criteria spatial flood risk model.
 Automated Flood Risk Spatial Model
 Project Overview
-This project automates a traditional manual GIS workflow into a single Python script. It uses ArcPy and Map Algebra to evaluate terrain data and output a categorized flood risk map for [Insert District/Area Name], Accra.
-
+The script now runs the complete workflow end to end
+Slope calculation, Reclassification, and Weighted Overlay starting 
+directly from a raw DEM, rather than assuming pre-reclassified inputs 
+already exist.
 The Problem
 Traditional flood modeling in GIS requires manually running sequential geoprocessing tools (Slope calculation, Reclassification, Weighted Overlay), which is time-consuming and prone to human error when adjusting parameters.
 
